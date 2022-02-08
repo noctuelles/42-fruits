@@ -5,7 +5,7 @@
 </p>
 
 <p align="right">
-  <i>Crédit logo : <a href="https://remidehaene.wixsite.com/design">Rémi Dehaine</a></i>
+  <i>Crédit logo : <a href="https://remidehaene.wixsite.com/design">Rémi Dehaene</a></i>
 </p>
 
 Fruitstock est une SARL spécialisée dans le secteur du commerce de détail de fruits et légumes.
