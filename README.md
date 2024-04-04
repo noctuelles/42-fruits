@@ -24,12 +24,13 @@ Les denrées sont principalement produites sur le sol andalou, sur la côte trop
 Un membre clé du projet Fruistock est le producteur / grossiste Rufino Ruiz Casado, gérant de la société Sol Y Fruta basée à Salobreña.
 C'est cette société qui fournit principalement Fruitstock.
 
-Fonctionnement
+### Fonctionnement
 
 Chaque groupe d'achat est formé d'un responsable de groupe et de plusieurs adhérents. L'organisation d'une commande se fait donc entre pairs : commande, réception, distribution.
 Le responsable est chargé de s'assurer que la commande soit sans erreur et propose différentes solutions aux adhérents du groupe pour la distribution.
 
-Fiche de commande
+### Fiche de commande
+
 Le début d'une commande se passe sur un fichier Excel :
 
 <p align="center">
@@ -70,7 +71,8 @@ Il n'y a pas de minimum par personne, chacun décide de choisir ce qu'il prend m
 
 La seule contrainte est celle du poids : un minimum de 70 kg par commande.
 
-Livraison
+### Livraison
+
 La livraison s'effectue généralement dans la semaine ou le lundi de la semaine suivante pour une commande passée le jeudi soir de la semaine précédente.
 Il faut donc un espace suffisamment grand pour pouvoir stocker entre 100 et 200 kg de fruits et légumes pendant une journée ou deux jours au maximum.
 
@@ -80,17 +82,19 @@ Il y a un travail de répartition et de vérification du poids qui demande pas m
 
 En plus du poids, il faut aussi s'assurer de l'état général de l'ensemble de la commande. Dans le cas où il y aurait un souci, le gérant doit pouvoir s'occuper de faire une fiche S.A.V, ce qui nous amène à la section suivante.
 
-Distribution & Service Après-Vente
+### Distribution & Service Après-Vente
+
 Chaque membre se débrouille donc pour venir chercher ce qu'il a commandé le jour même ou le lendemain.
 
 Si jamais des fruits arrivent pourris, en très mauvais état ou ne se conservent pas, Fruitstock est généralement très réactif et très conciliant : avec une ou plusieurs photos à envoyer au gérant et une description du problème, la société répond positivement en proposant des avoirs sur la prochaine commande au membre concerné.
 
-Le paiement
+### Le paiement
+
 Généralement deux jours avant la livraison, Fruitstock envoie une facture par mail, à payer rapidement sur la plateforme Pennylane.
 
 Il n'y a donc aucun transfert d'argent au responsable lui-même, ce processus est individualisé.
 
-Pourquoi le projet peut s'intégrer parfaitement à l'école
+### Pourquoi le projet peut s'intégrer parfaitement à l'école
 
 Un groupe peut s'intégrer au sein de l'école : je me propose en tant que responsable, et je serai ravi de travailler avec d'autres personnes (d'autres élèves) pour la partie réception / communication au sein du groupe de l'école.
 Il y a une dimension sociale intéressante qui, je pense, s'inscrit dans la philosophie de l'école : le groupe est autonome et son fonctionnement se réalise uniquement entre élèves, la communication est importante et son déploiement nécessite un effort collectif.
@@ -101,10 +105,13 @@ Enjeux de santé publique.
 Besoin de proximité avec ce que l'on mange / lassitude des institutions de consommations actuelles.
 Besoin(s)
 Utilisation des locaux : un espace au sein de l'école pour le stockage.
-Limite(s)
+
+### Limite(s)
+
 Si le projet a du succès, il y aura un moment où la somme de travail qui est demandée sera peut-être trop grande et imposera une limite de membres. L'expérience le montrera et j'expose ce point uniquement par prudence.
 
-Contact
+### Contact
+
 Adresse électronique : plouvel@42.student.fr
 
 Discord : Noctuelles#1657
